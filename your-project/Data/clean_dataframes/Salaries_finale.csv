@@ -1,0 +1,688 @@
+,job_title,company,salary,location,salary_mean,Temporality,Annualized,Seniority
+0,Data Analyst,Fifty-Five,39.056 €/año,Paris,39,Yearly,39000,Not determined
+1,Data Analyst,Criteo,43.140 €/año,Paris,43,Yearly,43000,Not determined
+2,Data Analyst,AXA,40.000 €/año,Paris,40,Yearly,40000,Not determined
+3,Data Analyst - Becario por mes,Criteo,1.522 €/mes,Paris,2,Monthly,24000,Internship
+4,Data Analyst,Contentsquare,41.182 €/año,Paris,41,Yearly,41000,Not determined
+5,Data Analyst,Ubisoft,44.465 €/año,Paris,44,Yearly,44000,Not determined
+6,Data Analyst,Orange,48.000 €/año,Paris,48,Yearly,48000,Not determined
+7,Data Analyst,Renault,37.991 €/año,Paris,38,Yearly,38000,Not determined
+8,Data Analyst - Por mes,EDF,1.268 €/mes,Paris,1,Monthly,12000,Not determined
+9,Data Analyst - Becario por mes,AXA,1.605 €/mes,Paris,2,Monthly,24000,Internship
+10,Data Analyst - Becario por mes,TOTAL,1.043 €/mes,Paris,1,Monthly,12000,Internship
+11,Data Analyst,Saint-Gobain,41.110 €/año,Paris,41,Yearly,41000,Not determined
+12,Data Analyst,Organisation for Economic Co-operation and Development,55.147 €/año,Paris,55,Yearly,55000,Not determined
+13,Data Analyst,Cegedim,40.000 €/año,Paris,40,Yearly,40000,Not determined
+14,Data Analyst,BlaBlaCar,43.297 €/año,Paris,43,Yearly,43000,Not determined
+15,Data Analyst,Dailymotion,52.000 €/año,Paris,52,Yearly,52000,Not determined
+16,Data Analyst,Kisio,33.050 €/año,Paris,33,Yearly,33000,Not determined
+17,Data Analyst,Ada,100.268 €/año,Paris,100,Yearly,100000,Not determined
+18,Data Analyst - Becario por mes,Société Générale,1.514 €/mes,Paris,2,Monthly,24000,Internship
+19,Data Analyst - Becario por mes,BNP Paribas,1.647 €/mes,Paris,2,Monthly,24000,Internship
+20,Data Analyst - Becario por mes,Orange,1.380 €/mes,Paris,1,Monthly,12000,Internship
+21,Data Analyst - Becario por mes,Renault,934 €/mes,Paris,934,Monthly,11208,Internship
+22,Data Analyst - Becario por mes,EY,1.658 €/mes,Paris,2,Monthly,24000,Internship
+23,Data Analyst - Becario por mes,EDF,1.353 €/mes,Paris,1,Monthly,12000,Internship
+24,Data Analyst - Por mes,Bouygues Telecom,2.791 €/mes,Paris,3,Monthly,36000,Not determined
+25,Data Analyst - Becario por mes,Bouygues Telecom,1.247 €/mes,Paris,1,Monthly,12000,Internship
+26,Data Analyst,Air France,38.886 €/año,Paris,39,Yearly,39000,Not determined
+27,Data Analyst,La Banque Postale,38.816 €/año,Paris,39,Yearly,39000,Not determined
+28,Data Analyst,CANAL+,40.118 €/año,Paris,40,Yearly,40000,Not determined
+29,Data Analyst - Becario por mes,Chanel,1.423 €/mes,Paris,1,Monthly,12000,Internship
+30,Data Analyst,happn,47.554 €/año,Paris,48,Yearly,48000,Not determined
+31,Data Analyst,Experian,42.642 €/año,Paris,43,Yearly,43000,Not determined
+32,Data Analyst,Accuity,40.381 €/año,Paris,40,Yearly,40000,Not determined
+33,Data Analyst,BNP Paribas,43.766 €/año,Paris,44,Yearly,44000,Not determined
+34,Data Analyst - Proveedor de servicios,BNP Paribas,40.821 €/año,Paris,41,Yearly,41000,Not determined
+35,Data Analyst - Por mes,Orange,2.277 €/mes,Paris,2,Monthly,24000,Not determined
+36,Data Analyst - Becario por mes,Capgemini,523 €/mes,Paris,523,Monthly,6276,Internship
+37,Data Analyst,EY,42.334 €/año,Paris,42,Yearly,42000,Not determined
+38,Data Analyst,Accenture,37.618 €/año,Paris,38,Yearly,38000,Not determined
+39,Data Analyst,Groupe Crédit Agricole,31.119 €/año,Paris,31,Yearly,31000,Not determined
+40,Data Analyst - Por mes,CGI,2.348 €/mes,Paris,2,Monthly,24000,Not determined
+41,Data Analyst,CGI,38.146 €/año,Paris,38,Yearly,38000,Not determined
+42,Data Analyst - Por mes,EDF,1.206 €/mes,Paris,1,Monthly,12000,Not determined
+43,Data Analyst,EDF,62.574 €/año,Paris,63,Yearly,63000,Not determined
+44,Data Analyst,Carrefour,39.364 €/año,Paris,39,Yearly,39000,Not determined
+45,Data Analyst - Becario por mes,Groupe PSA,1.009 €/mes,Paris,1,Monthly,12000,Internship
+46,Data Analyst - Por mes,AXA,1.657 €/mes,Paris,2,Monthly,24000,Not determined
+47,Data Analyst,Deloitte,40.754 €/año,Paris,41,Yearly,41000,Not determined
+48,Data Analyst - Proveedor de servicios por mes,TOTAL,1.185 €/mes,Paris,1,Monthly,12000,Not determined
+49,Data Analyst,TOTAL,42.392 €/año,Paris,42,Yearly,42000,Not determined
+50,Data Analyst - Por mes,TOTAL,2.536 €/mes,Paris,3,Monthly,36000,Not determined
+51,Data Analyst - Por mes,PwC,1.591 €/mes,Paris,2,Monthly,24000,Not determined
+52,Data Analyst,PwC,46.000 €/año,Paris,46,Yearly,46000,Not determined
+53,Data Analyst - Becario por mes,PwC,1.654 €/mes,Paris,2,Monthly,24000,Internship
+54,Data Analyst,La Poste,46.952 €/año,Paris,47,Yearly,47000,Not determined
+55,Data Analyst - Becario por mes,La Poste,732 €/mes,Paris,732,Monthly,8784,Internship
+56,Data Analyst,ENGIE,46.572 €/año,Paris,47,Yearly,47000,Not determined
+57,Data Analyst - Por mes,ENGIE,1.203 €/mes,Paris,1,Monthly,12000,Not determined
+58,Data Analyst,IBM,46.572 €/año,Paris,47,Yearly,47000,Not determined
+59,Data Analyst,IBM,40.138 €/año,Paris,40,Yearly,40000,Not determined
+60,Data Analyst - Proveedor de servicios,Natixis,38.102 €/año,Paris,38,Yearly,38000,Not determined
+61,Data Analyst,Natixis,19.055 €/año,Paris,19,Yearly,19000,Not determined
+62,Data Analyst - Proveedor de servicios por mes,Natixis,1.615 €/mes,Paris,2,Monthly,24000,Not determined
+63,Data Analyst,Natixis,44.949 €/año,Paris,45,Yearly,45000,Not determined
+64,Data Analyst - Becario por mes,SFR,1.282 €/mes,Paris,1,Monthly,12000,Internship
+65,Data Analyst,SFR,55.211 €/año,Paris,55,Yearly,55000,Not determined
+66,Data Analyst - Proveedor de servicios por mes,SFR,1.569 €/mes,Paris,2,Monthly,24000,Not determined
+67,Data Analyst - Por mes,Schneider Electric,1.504 €/mes,Paris,2,Monthly,24000,Not determined
+68,Data Analyst - Becario por mes,CEA,1.355 €/mes,Paris,1,Monthly,12000,Internship
+69,Data Analyst - Por mes,Air France,1.223 €/mes,Paris,1,Monthly,12000,Not determined
+70,Data Analyst,HSBC Holdings,44.138 €/año,Paris,44,Yearly,44000,Not determined
+71,Data Analyst - Becario por mes,Vinci,1.420 €/mes,Paris,1,Monthly,12000,Internship
+72,Data Analyst,Mazars,42.433 €/año,Paris,42,Yearly,42000,Not determined
+73,Data Analyst - Becario por mes,Mazars,1.527 €/mes,Paris,2,Monthly,24000,Internship
+74,Data Analyst,Ubisoft,33.432 €/año,Paris,33,Yearly,33000,Not determined
+75,Data Analyst - Becario por mes,Accor,1.237 €/mes,Paris,1,Monthly,12000,Internship
+76,Data Analyst - Becario por mes,Air Liquide,1.411 €/mes,Paris,1,Monthly,12000,Internship
+77,Data Analyst - Proveedor de servicios,LVMH,39.159 €/año,Paris,39,Yearly,39000,Not determined
+78,Data Analyst - Becario por mes,Veepee,1.543 €/mes,Paris,2,Monthly,24000,Internship
+79,Data Analyst - Becario por mes,LVMH,1.253 €/mes,Paris,1,Monthly,12000,Internship
+80,Data Analyst - Por mes,Criteo,4.277 €/mes,Paris,4,Monthly,48000,Not determined
+81,Data Analyst - Becario por mes,Sodexo,1.116 €/mes,Paris,1,Monthly,12000,Internship
+82,Data Analyst - Por mes,Sodexo,3.088 €/mes,Paris,3,Monthly,36000,Not determined
+83,Data Analyst,BearingPoint,45.649 €/año,Paris,46,Yearly,46000,Not determined
+84,Data Analyst,Murex,46.663 €/año,Paris,47,Yearly,47000,Not determined
+85,Data Analyst,Nissan,35.327 €/año,Paris,35,Yearly,35000,Not determined
+86,Data Analyst - Becario por mes,Aubay,913 €/mes,Paris,913,Monthly,10956,Internship
+87,Data Analyst,Keyrus,42.070 €/año,Paris,42,Yearly,42000,Not determined
+88,Data Analyst - Por mes,Cegedim,1.231 €/mes,Paris,1,Monthly,12000,Not determined
+89,Data Analyst,Yves Rocher,40.716 €/año,Paris,41,Yearly,41000,Not determined
+90,Data Analyst - Becario por mes,IQVIA,1.420 €/mes,Paris,1,Monthly,12000,Internship
+91,Data Analyst - Por mes,numberly (1000mercis group),1.206 €/mes,Paris,1,Monthly,12000,Not determined
+92,Data Analyst,numberly (1000mercis group),37.258 €/año,Paris,37,Yearly,37000,Not determined
+93,Data Analyst - Becario por mes,Robert Bosch,1.320 €/mes,Paris,1,Monthly,12000,Internship
+94,Data Analyst - Becario por mes,AG2R la Mondiale,776 €/mes,Paris,776,Monthly,9312,Internship
+95,Data Analyst - Por mes,Arval BNP Paribas Group,1.500 €/mes,Paris,2,Monthly,24000,Not determined
+96,Data Analyst - Por mes,Réseau de Transport d'Electricité,1.116 €/mes,Paris,1,Monthly,12000,Not determined
+97,Data Analyst - Becario por mes,Réseau de Transport d'Electricité,870 €/mes,Paris,870,Monthly,10440,Internship
+98,Data Analyst,Havas Media,36.221 €/año,Paris,36,Yearly,36000,Not determined
+99,Data Analyst - Becario por mes,CPAM,532 €/mes,Paris,532,Monthly,6384,Internship
+100,Data Analyst - Becario por mes,Datawords,602 €/mes,Paris,602,Monthly,7224,Internship
+101,Data Analyst,Arkema,45.537 €/año,Paris,46,Yearly,46000,Not determined
+102,Data Analyst,Sfeir,62.238 €/año,Paris,62,Yearly,62000,Not determined
+103,Data Analyst - Por mes,Air France-KLM,1.408 €/mes,Paris,1,Monthly,12000,Not determined
+104,Data Analyst - Becario por mes,BNP Paribas Personal Finance,1.300 €/mes,Paris,1,Monthly,12000,Internship
+105,Data Analyst - Por mes,BNP Paribas Personal Finance,1.932 €/mes,Paris,2,Monthly,24000,Not determined
+106,Data Analyst - Becario por mes,Korian,1.000 €/mes,Paris,1,Monthly,12000,Internship
+107,Data Analyst - Becario por mes,Louvre Hotels Group,1.323 €/mes,Paris,1,Monthly,12000,Internship
+108,Data Analyst,Meero,44.949 €/año,Paris,45,Yearly,45000,Not determined
+109,Data Analyst - Becario por mes,Fifty-Five,940 €/mes,Paris,940,Monthly,11280,Internship
+110,Data Analyst - Becario por mes,Contentsquare,1.035 €/mes,Paris,1,Monthly,12000,Internship
+111,Data Analyst - Becario por mes,Dailymotion,1.223 €/mes,Paris,1,Monthly,12000,Internship
+112,Data Analyst - Becario por mes,Reed Exhibitions,845 €/mes,Paris,845,Monthly,10140,Internship
+113,Data Analyst,Artefact,39.954 €/año,Paris,40,Yearly,40000,Not determined
+114,Data Analyst,Meetic,60.929 €/año,Paris,61,Yearly,61000,Not determined
+115,Data Analyst - Becario por mes,GRTgaz,752 €/mes,Paris,752,Monthly,9024,Internship
+116,Data Analyst,Ogilvy,33.121 €/año,Paris,33,Yearly,33000,Not determined
+117,Data Analyst,Boursorama,28.214 €/año,Paris,28,Yearly,28000,Not determined
+118,Data Analyst,Aptar,45.121 €/año,Paris,45,Yearly,45000,Not determined
+119,Data Analyst,EVANEOS,35.111 €/año,Paris,35,Yearly,35000,Not determined
+120,Data Analyst - Becario por mes,Jumia,1.044 €/mes,Paris,1,Monthly,12000,Internship
+121,Data Analyst - Por mes,Euronext,1.521 €/mes,Paris,2,Monthly,24000,Not determined
+122,Data Analyst,Kapten,45.649 €/año,Paris,46,Yearly,46000,Not determined
+123,Data Analyst,Warner Bros.,60.027 €/año,Paris,60,Yearly,60000,Not determined
+124,Data Analyst - Por mes,ING,2.306 €/mes,Paris,2,Monthly,24000,Not determined
+125,Data Analyst - Becario por mes,Dataiku,1.200 €/mes,Paris,1,Monthly,12000,Internship
+126,Data Analyst,ING,42.610 €/año,Paris,43,Yearly,43000,Not determined
+127,Data Analyst,PMU,41.000 €/año,Paris,41,Yearly,41000,Not determined
+128,Data Analyst - Becario por mes,TUI Group,521 €/mes,Paris,521,Monthly,6252,Internship
+129,Data Analyst,Havas Worldwide,50.467 €/año,Paris,50,Yearly,50000,Not determined
+130,Data Analyst,Figaro Classifieds,45.461 €/año,Paris,45,Yearly,45000,Not determined
+131,Data Analyst,Vertone,39.240 €/año,Paris,39,Yearly,39000,Not determined
+132,Data Analyst - Becario por mes,AXA Partners,1.305 €/mes,Paris,1,Monthly,12000,Internship
+133,Data Analyst,simply market,51.640 €/año,Paris,52,Yearly,52000,Not determined
+134,Data Analyst - Becario por mes,Frichti,879 €/mes,Paris,879,Monthly,10548,Internship
+135,Data Analyst,Le Figaro,36.000 €/año,Paris,36,Yearly,36000,Not determined
+136,Data Analyst - Becario por mes,happn,834 €/mes,Paris,834,Monthly,10008,Internship
+137,Data Analyst,Abbott,47.329 €/año,Paris,47,Yearly,47000,Not determined
+138,Data Analyst,Photobox,32.988 €/año,Paris,33,Yearly,33000,Not determined
+139,Data Analyst - Becario por mes,GreenFlex,1.006 €/mes,Paris,1,Monthly,12000,Internship
+140,Data Analyst - Becario por mes,Linkfluence,828 €/mes,Paris,828,Monthly,9936,Internship
+141,Data Analyst,Aircall,42.605 €/año,Paris,43,Yearly,43000,Not determined
+142,Data Analyst - Becario por mes,International Energy Agency,708 €/mes,Paris,708,Monthly,8496,Internship
+143,Data Analyst,Holidog,31.342 €/año,Paris,31,Yearly,31000,Not determined
+144,Data Analyst,Back Market,48.124 €/año,Paris,48,Yearly,48000,Not determined
+145,Data Analyst - Becario por mes,Direct Assurance,1.623 €/mes,Paris,2,Monthly,24000,Internship
+146,Data Analyst,Direct Assurance,45.000 €/año,Paris,45,Yearly,45000,Not determined
+147,Data Analyst,Fullsix,38.214 €/año,Paris,38,Yearly,38000,Not determined
+148,Data Analyst,Drivy,40.138 €/año,Paris,40,Yearly,40000,Not determined
+149,Data Analyst,Vestiaire Collective,39.954 €/año,Paris,40,Yearly,40000,Not determined
+150,Data Analyst,OpenClassrooms,50.192 €/año,Paris,50,Yearly,50000,Not determined
+151,Data Analyst,Proximity,59.329 €/año,Paris,59,Yearly,59000,Not determined
+152,Data Analyst - Becario por mes,Aurexia,1.831 €/mes,Paris,2,Monthly,24000,Internship
+153,Data Analyst - Becario por mes,Privateaser,1.035 €/mes,Paris,1,Monthly,12000,Internship
+154,Data Analyst,Smart AdServer,42.000 €/año,Paris,42,Yearly,42000,Not determined
+155,Data Analyst - Por mes,Lenôtre,2.507 €/mes,Paris,3,Monthly,36000,Not determined
+156,Data Analyst - Becario por mes,Vermeg,1.550 €/mes,Paris,2,Monthly,24000,Internship
+157,Data Analyst - Becario por mes,Tinyclues,1.535 €/mes,Paris,2,Monthly,24000,Internship
+158,Data Analyst - Becario por mes,European Securities and Markets Authority,1.674 €/mes,Paris,2,Monthly,24000,Internship
+159,Data Analyst,Omnicom Media Group,38.000 €/año,Paris,38,Yearly,38000,Not determined
+160,Data Analyst,QuantCube Technology,38.098 €/año,Paris,38,Yearly,38000,Not determined
+161,Data Analyst - Becario por mes,Adot,1.014 €/mes,Paris,1,Monthly,12000,Internship
+162,Data Analyst - Por mes,Kayrros,1.121 €/mes,Paris,1,Monthly,12000,Not determined
+163,Data Analyst - Becario por mes,Vrbo,1.553 €/mes,Paris,2,Monthly,24000,Internship
+164,Data Analyst,Audika,40.057 €/año,Paris,40,Yearly,40000,Not determined
+165,Data Analyst,Ve Global,41.681 €/año,Paris,42,Yearly,42000,Not determined
+166,Data Analyst - Becario por mes,Mappy,1.604 €/mes,Paris,2,Monthly,24000,Internship
+167,Data Analyst,YMCA,41.681 €/año,Paris,42,Yearly,42000,Not determined
+168,Data Analyst - Becario por mes,Ebiquity,1.035 €/mes,Paris,1,Monthly,12000,Internship
+169,Data Analyst - Por mes,PSA Retail,1.205 €/mes,Paris,1,Monthly,12000,Not determined
+170,Data Analyst,Lincoln,38.548 €/año,Paris,39,Yearly,39000,Not determined
+171,Data Analyst,HomeExchange,38.548 €/año,Paris,39,Yearly,39000,Not determined
+172,Data Analyst,WeDigitalGarden,55.079 €/año,Paris,55,Yearly,55000,Not determined
+173,Data Analyst - Por mes,Schneider Electric,1.907 €/mes,Paris,2,Monthly,24000,Not determined
+174,Data Analyst,Lincoln (France),44.769 €/año,Paris,45,Yearly,45000,Not determined
+175,Data Analyst,MFG Labs,45.121 €/año,Paris,45,Yearly,45000,Not determined
+176,Data Analyst - Becario por mes,Dhatim,1.014 €/mes,Paris,1,Monthly,12000,Internship
+177,Data Analyst,Maten,51.027 €/año,Paris,51,Yearly,51000,Not determined
+178,Data Analyst,gumi,41.760 €/año,Paris,42,Yearly,42000,Not determined
+179,Data Analyst,ici Barbès,31.447 €/año,Paris,31,Yearly,31000,Not determined
+180,Data Analyst - Becario por mes,IEIF,828 €/mes,Paris,828,Monthly,9936,Internship
+181,Data Analyst - Becario por mes,Tripndrive,731 €/mes,Paris,731,Monthly,8772,Internship
+182,Data Analyst - Becario,Hamamatsu Photonics,18.259 €/año,Paris,18,Yearly,18000,Internship
+183,Data Analyst,noon,45.065 €/año,Paris,45,Yearly,45000,Not determined
+184,Data Analyst - Becario por mes,Selency,1.000 €/mes,Paris,1,Monthly,12000,Internship
+185,Data Analyst,ALLO RESTO,38.100 €/año,Paris,38,Yearly,38000,Not determined
+186,Data Analyst - Becario por mes,BinckBank,1.221 €/mes,Paris,1,Monthly,12000,Internship
+187,Data Analyst - Becario por mes,Twinin,809 €/mes,Paris,809,Monthly,9708,Internship
+188,Data Analyst,R1,46.522 €/año,Paris,47,Yearly,47000,Not determined
+189,Data Analyst,SAIC,42.113 €/año,Paris,42,Yearly,42000,Not determined
+190,Data Analyst,Yoolook,50.721 €/año,Paris,51,Yearly,51000,Not determined
+191,Data Analyst,Hildnd,50.000 €/año,Paris,50,Yearly,50000,Not determined
+192,Data Analyst,Institut National de la Recherche Agronomique (INRA),45.121 €/año,Paris,45,Yearly,45000,Not determined
+193,Data Analyst - Becario por mes,Cybel,1.302 €/mes,Paris,1,Monthly,12000,Internship
+194,Data Analyst - Por mes,Dave & Buster's,1.805 €/mes,Paris,2,Monthly,24000,Not determined
+195,Data Analyst - Por mes,Masa,2.031 €/mes,Paris,2,Monthly,24000,Not determined
+196,Senior Data Analyst,Criteo,55.500 €/año,Paris,56,Yearly,56000,Senior Position
+197,Senior Data Analyst,Fifty-Five,47.606 €/año,Paris,48,Yearly,48000,Senior Position
+198,Data Analyst Associate - Becario por mes,Fifty-Five,961 €/mes,Paris,961,Monthly,11532,Internship
+199,Senior Data Analyst,KPMG,48.154 €/año,Paris,48,Yearly,48000,Senior Position
+200,Senior Data Analyst,SoLocal Group,50.466 €/año,Paris,50,Yearly,50000,Senior Position
+201,Senior Data Analyst,Avanade,40.104 €/año,Paris,40,Yearly,40000,Senior Position
+202,Senior Data Analyst,ALTEN,39.179 €/año,Paris,39,Yearly,39000,Senior Position
+203,Senior Data Analyst,Deloitte,42.951 €/año,Paris,43,Yearly,43000,Senior Position
+204,Senior Data Analyst,PwC,53.849 €/año,Paris,54,Yearly,54000,Senior Position
+205,Senior Data Analyst,SFR,52.075 €/año,Paris,52,Yearly,52000,Senior Position
+206,Senior Data Analyst,Air France,62.703 €/año,Paris,63,Yearly,63000,Senior Position
+207,Senior Data Analyst,IQVIA,39.386 €/año,Paris,39,Yearly,39000,Senior Position
+208,Senior Data Analyst,Blizzard Entertainment,47.505 €/año,Paris,48,Yearly,48000,Senior Position
+209,Senior Data Analyst,Reed Exhibitions,56.626 €/año,Paris,57,Yearly,57000,Senior Position
+210,Senior Data Analyst,PeopleDoc,53.076 €/año,Paris,53,Yearly,53000,Senior Position
+211,Senior Data Analyst,Freelance,7.214 €/año,Paris,7,Yearly,7000,Senior Position
+212,Senior Data Analyst,TSI Incorporated,48.623 €/año,Paris,49,Yearly,49000,Senior Position
+213,Business Data Analyst,Société Générale,40.126 €/año,Paris,40,Yearly,40000,Not determined
+214,Business Data Analyst,Amazon,41.773 €/año,Paris,42,Yearly,42000,Not determined
+215,Business Data Analyst,Publicis Groupe,55.371 €/año,Paris,55,Yearly,55000,Not determined
+216,Business Data Analyst - Becario por mes,TF1,1.149 €/mes,Paris,1,Monthly,12000,Internship
+217,Business Data Analyst - Por mes,TechnipFMC,1.602 €/mes,Paris,2,Monthly,24000,Not determined
+218,Business Data Analyst,numberly (1000mercis group),38.251 €/año,Paris,38,Yearly,38000,Not determined
+219,Business Data Analyst,Withings,35.100 €/año,Paris,35,Yearly,35000,Not determined
+220,Business Data Analyst - Proveedor de servicios por mes,IPG Mediabrands,1.888 €/mes,Paris,2,Monthly,24000,Not determined
+221,Business Data Analyst,Data2Decisions,30.312 €/año,Paris,30,Yearly,30000,Not determined
+222,Junior Data Analyst - Proveedor de servicios,Ubisoft,36.812 €/año,Paris,37,Yearly,37000,Junior Position
+223,Junior Data Analyst,Criteo,42.433 €/año,Paris,42,Yearly,42000,Junior Position
+224,Junior Data Analyst - Por mes,Camaïeu,1.543 €/mes,Paris,2,Monthly,24000,Junior Position
+225,Junior Data Analyst,Artefact,38.000 €/año,Paris,38,Yearly,38000,Junior Position
+226,Junior Data Analyst,Reed Exhibitions,38.055 €/año,Paris,38,Yearly,38000,Junior Position
+227,Junior Data Analyst - Por mes,Aptar,1.725 €/mes,Paris,2,Monthly,24000,Junior Position
+228,Junior Data Analyst,GroupM,37.128 €/año,Paris,37,Yearly,37000,Junior Position
+229,Junior Data Analyst,Groupe Estia,37.120 €/año,Paris,37,Yearly,37000,Junior Position
+230,Marketing Data Analyst - Becario por mes,Dassault Systemes,979 €/mes,Paris,979,Monthly,11748,Internship
+231,Marketing Data Analyst,Ubisoft,41.422 €/año,Paris,41,Yearly,41000,Not determined
+232,Marketing Data Analyst - Por mes,JCDecaux,1.552 €/mes,Paris,2,Monthly,24000,Not determined
+233,Data Analyst Intern - Por mes,Amazon,1.425 €/mes,Paris,1,Monthly,12000,Internship
+234,Data Analyst Intern - Por mes,Criteo,1.522 €/mes,Paris,2,Monthly,24000,Internship
+235,Data Analyst Intern,SoLocal Group,1.264 €/año,Paris,1,Yearly,1000,Internship
+236,Data Analyst Intern - Por mes,Fifty-Five,1.254 €/mes,Paris,1,Monthly,12000,Internship
+237,Data Analyst Intern - Por mes,Frichti,828 €/mes,Paris,828,Monthly,9936,Internship
+238,Data Analyst Intern - Por mes,monAlbumPhoto.fr,834 €/mes,Paris,834,Monthly,10008,Internship
+239,Data Analyst Intern - Por mes,Monbanquet.fr,816 €/mes,Paris,816,Monthly,9792,Internship
+240,Associate Data Analyst - Becario por mes,Fifty-Five,963 €/mes,Paris,963,Monthly,11556,Internship
+241,Master Data Analyst,Schneider Electric,57.800 €/año,Paris,58,Yearly,58000,Not determined
+242,Market Data Analyst,Groupe Crédit Agricole,37.181 €/año,Paris,37,Yearly,37000,Not determined
+243,Big Data Analyst - Becario por mes,Banque de France,1.100 €/mes,Paris,1,Monthly,12000,Internship
+244,Big Data Analyst,Ericsson-Worldwide,36.740 €/año,Paris,37,Yearly,37000,Not determined
+245,Statistical Data Analyst - Becario por mes,Air Liquide,1.151 €/mes,Paris,1,Monthly,12000,Internship
+246,BI Data Analyst - Becario por mes,Kaymu,835 €/mes,Paris,835,Monthly,10020,Internship
+247,Language Data Analyst - Por mes,TransPerfect,1.222 €/mes,Paris,1,Monthly,12000,Not determined
+248,Internship Data Analyst - Por mes,AXA,1.905 €/mes,Paris,2,Monthly,24000,Internship
+249,Internship Data Analyst - Por mes,Wavestone,1.705 €/mes,Paris,2,Monthly,24000,Internship
+250,Internship Data Analyst - Por mes,Air Liquide,1.217 €/mes,Paris,1,Monthly,12000,Internship
+251,Internship Data Analyst - Por mes,Criteo,1.500 €/mes,Paris,2,Monthly,24000,Internship
+252,Internship Data Analyst - Por mes,GE Healthcare,1.504 €/mes,Paris,2,Monthly,24000,Internship
+253,Internship Data Analyst - Por mes,Contentsquare,1.010 €/mes,Paris,1,Monthly,12000,Internship
+254,Internship Data Analyst - Por mes,Ekimetrics,1.424 €/mes,Paris,1,Monthly,12000,Internship
+255,Internship Data Analyst - Por mes,Publicis ETO,1.014 €/mes,Paris,1,Monthly,12000,Internship
+256,Internship Data Analyst - Por mes,Arcane (France),1.303 €/mes,Paris,1,Monthly,12000,Internship
+257,Internship Data Analyst - Por mes,Mixdata,1.014 €/mes,Paris,1,Monthly,12000,Internship
+258,Internship Data Analyst - Por mes,TradeLab,1.003 €/mes,Paris,1,Monthly,12000,Internship
+259,Internship Data Analyst - Por mes,Myriad (France),569 €/mes,Paris,569,Monthly,6828,Internship
+260,Risk Data Analyst,Newedge,36.511 €/año,Paris,37,Yearly,37000,Not determined
+261,CRM Data Analyst,Audika,50.721 €/año,Paris,51,Yearly,51000,Not determined
+262,Assistant Data Analyst - Becario por mes,Orange,1.419 €/mes,Paris,1,Monthly,12000,Internship
+263,Data Analyst,Booking.com,57.611 €/año,Amsterdam,58,Yearly,58000,Not determined
+264,Data Analyst,ING,59.864 €/año,Amsterdam,60,Yearly,60000,Not determined
+265,Data Analyst - Por mes,ING,4.732 €/mes,Amsterdam,5,Monthly,60000,Not determined
+266,Data Analyst,Optiver,43.339 €/año,Amsterdam,43,Yearly,43000,Not determined
+267,Data Analyst - Por mes,Motivaction International,2.700 €/mes,Amsterdam,3,Monthly,36000,Not determined
+268,Data Analyst - Por mes,ING,1.538 €/mes,Amsterdam,2,Monthly,24000,Not determined
+269,Data Analyst - Por mes,Rabobank,1.539 €/mes,Amsterdam,2,Monthly,24000,Not determined
+270,Data Analyst - Por mes,PwC,3.823 €/mes,Amsterdam,4,Monthly,48000,Not determined
+271,Data Analyst - Becario por mes,NIKE,801 €/mes,Amsterdam,801,Monthly,9612,Internship
+272,Data Analyst - Por mes,Akzo Nobel Worldwide,2.523 £/mes,Amsterdam,3,Monthly,36000,Not determined
+273,Data Analyst - Por mes,Elsevier,3.695 €/mes,Amsterdam,4,Monthly,48000,Not determined
+274,Data Analyst,Elsevier,71.212 €/año,Amsterdam,71,Yearly,71000,Not determined
+275,Data Analyst - Por mes,adidas,2.991 €/mes,Amsterdam,3,Monthly,36000,Not determined
+276,Data Analyst,Tata Consultancy Services,40.000 €/año,Amsterdam,40,Yearly,40000,Not determined
+277,Data Analyst,TNT Express,149.440 €/año,Amsterdam,149,Yearly,149000,Not determined
+278,Data Analyst,Catawiki,47.298 €/año,Amsterdam,47,Yearly,47000,Not determined
+279,Data Analyst - Becario por mes,Ahold Delhaize,508 €/mes,Amsterdam,508,Monthly,6096,Internship
+280,Data Analyst - Proveedor de servicios,Juniper Networks,38.061 €/año,Amsterdam,38,Yearly,38000,Not determined
+281,Data Analyst,Spotzer,28.084 €/año,Amsterdam,28,Yearly,28000,Not determined
+282,Data Analyst - Proveedor de servicios por mes,Staples,4.634 €/mes,Amsterdam,5,Monthly,60000,Not determined
+283,Data Analyst,Takeaway.com,50.558 €/año,Amsterdam,51,Yearly,51000,Not determined
+284,Data Analyst,Bynder,56.000 €/año,Amsterdam,56,Yearly,56000,Not determined
+285,Data Analyst,eBay,96.059 €/año,Amsterdam,96,Yearly,96000,Not determined
+286,Data Analyst - Por mes,Diageo,5.484 €/mes,Amsterdam,5,Monthly,60000,Not determined
+287,Data Analyst - Por mes,IQVIA,3.384 €/mes,Amsterdam,3,Monthly,36000,Not determined
+288,Data Analyst,IQVIA,39.940 €/año,Amsterdam,40,Yearly,40000,Not determined
+289,Data Analyst - Por mes,LeasePlan Nederland NV,4.045 €/mes,Amsterdam,4,Monthly,48000,Not determined
+290,Data Analyst - Por mes,MessageBird,3.600 €/mes,Amsterdam,4,Monthly,48000,Not determined
+291,Data Analyst,Pathé,31.672 €/año,Amsterdam,32,Yearly,32000,Not determined
+292,Data Analyst - Por mes,EVBox,4.570 €/mes,Amsterdam,5,Monthly,60000,Not determined
+293,Data Analyst - Becario por mes,FedEx,299 €/mes,Amsterdam,299,Monthly,3588,Internship
+294,Data Analyst - Por mes,Quby,3.675 €/mes,Amsterdam,4,Monthly,48000,Not determined
+295,Data Analyst,DS Smith,39.357 €/año,Amsterdam,39,Yearly,39000,Not determined
+296,Data Analyst,Zivver,42.468 €/año,Amsterdam,42,Yearly,42000,Not determined
+297,Data Analyst - Por mes,Priogen Group,1.868 €/mes,Amsterdam,2,Monthly,24000,Not determined
+298,Data Analyst,YGroup,44.866 €/año,Amsterdam,45,Yearly,45000,Not determined
+299,Data Analyst - Por hora,Dutchwebshark,12 €/h,Amsterdam,12,Hourly,21600,Not determined
+300,Data Analyst - Por mes,MeMo²,2.571 €/mes,Amsterdam,3,Monthly,36000,Not determined
+301,Data Analyst - Proveedor de servicios por mes,Databased Consultancy,5.143 €/mes,Amsterdam,5,Monthly,60000,Not determined
+302,Data Analyst - Por hora,Stichting Compuact Modulaire Opleidingen,11 €/h,Amsterdam,11,Hourly,19800,Not determined
+303,Data Analyst,BIRD,42.872 €/año,Amsterdam,43,Yearly,43000,Not determined
+304,Data Analyst - Por mes,DDB Unlimited,2.803 €/mes,Amsterdam,3,Monthly,36000,Not determined
+305,Senior Data Analyst - Por mes,Shell,6.007 €/mes,Amsterdam,6,Monthly,72000,Senior Position
+306,Senior Data Analyst - Por mes,Elsevier,6.177 €/mes,Amsterdam,6,Monthly,72000,Senior Position
+307,Senior Data Analyst,Tommy Hilfiger,42.697 €/año,Amsterdam,43,Yearly,43000,Senior Position
+308,Senior Data Analyst - Proveedor de servicios por hora,eBay,117 €/h,Amsterdam,117,Hourly,210600,Senior Position
+309,Senior Data Analyst - Por mes,IceMobile,4.407 €/mes,Amsterdam,4,Monthly,48000,Senior Position
+310,Business Data Analyst,Rabobank,50.103 €/año,Amsterdam,50,Yearly,50000,Not determined
+311,Business Data Analyst,Atradius,78.646 €/año,Amsterdam,79,Yearly,79000,Not determined
+312,Master Data Analyst,Akzo Nobel Worldwide,29.378 €/año,Amsterdam,29,Yearly,29000,Not determined
+313,Senior Business Data Analyst - Proveedor de servicios por hora,Atradius,86 €/h,Amsterdam,86,Hourly,154800,Senior Position
+314,Customer Data Analyst,TNT Express,103.406 €/año,Amsterdam,103,Yearly,103000,Not determined
+315,Data Analyst,Criteo,38.054 €/año,Barcelona,38,Yearly,38000,Not determined
+316,Data Analyst,Ubiqum Code Academy,46.937 €/año,Barcelona,47,Yearly,47000,Not determined
+317,Data Analyst,everis,27.576 €/año,Barcelona,28,Yearly,28000,Not determined
+318,Data Analyst,Glovo,28.880 €/año,Barcelona,29,Yearly,29000,Not determined
+319,Data Analyst,Socialpoint,31.451 €/año,Barcelona,31,Yearly,31000,Not determined
+320,Data Analyst,Adevinta,38.725 €/año,Barcelona,39,Yearly,39000,Not determined
+321,Data Analyst,SegurCaixa Adeslas,25.198 €/año,Barcelona,25,Yearly,25000,Not determined
+322,Data Analyst,Innova-Tsn,23.852 €/año,Barcelona,24,Yearly,24000,Not determined
+323,Data Analyst,Kernel Analytics,30.778 €/año,Barcelona,31,Yearly,31000,Not determined
+324,Data Analyst - Becario por mes,Accenture,1.098 €/mes,Barcelona,1,Monthly,12000,Internship
+325,Data Analyst,Accenture,26.965 €/año,Barcelona,27,Yearly,27000,Not determined
+326,Data Analyst - Proveedor de servicios,Altran Group,28.129 €/año,Barcelona,28,Yearly,28000,Not determined
+327,Data Analyst,eDreams ODIGEO,24.997 €/año,Barcelona,25,Yearly,25000,Not determined
+328,Data Analyst,HP Inc.,27.948 €/año,Barcelona,28,Yearly,28000,Not determined
+329,Data Analyst - Becario,HP Inc.,14.243 €/año,Barcelona,14,Yearly,14000,Internship
+330,Data Analyst,Minsait,25.179 €/año,Barcelona,25,Yearly,25000,Not determined
+331,Data Analyst,Sopra Steria,29.759 €/año,Barcelona,30,Yearly,30000,Not determined
+332,Data Analyst - Becario por mes,Criteo,996 €/mes,Barcelona,996,Monthly,11952,Internship
+333,Data Analyst - Por mes,Criteo,2.690 €/mes,Barcelona,3,Monthly,36000,Not determined
+334,Data Analyst,SAP,30.848 €/año,Barcelona,31,Yearly,31000,Not determined
+335,Data Analyst,Vistaprint,37.285 €/año,Barcelona,37,Yearly,37000,Not determined
+336,Data Analyst,Schneider Electric,24.488 €/año,Barcelona,24,Yearly,24000,Not determined
+337,Data Analyst,Mango,24.976 €/año,Barcelona,25,Yearly,25000,Not determined
+338,Data Analyst,Dow Jones,23.698 €/año,Barcelona,24,Yearly,24000,Not determined
+339,Data Analyst,Sogeti,27.695 €/año,Barcelona,28,Yearly,28000,Not determined
+340,Data Analyst,PUIG,44.466 €/año,Barcelona,44,Yearly,44000,Not determined
+341,Data Analyst,Xerox,19.505 €/año,Barcelona,20,Yearly,20000,Not determined
+342,Data Analyst,Cargill,51.684 €/año,Barcelona,52,Yearly,52000,Not determined
+343,Data Analyst,Wallapop,38.000 €/año,Barcelona,38,Yearly,38000,Not determined
+344,Data Analyst,Techedge,28.219 €/año,Barcelona,28,Yearly,28000,Not determined
+345,Data Analyst,Boehringer Ingelheim,40.514 €/año,Barcelona,41,Yearly,41000,Not determined
+346,Data Analyst,Ecolab,35.573 €/año,Barcelona,36,Yearly,36000,Not determined
+347,Data Analyst - Becario por mes,Splendia,600 €/mes,Barcelona,600,Monthly,7200,Internship
+348,Data Analyst,Rebold,18.847 €/año,Barcelona,19,Yearly,19000,Not determined
+349,Data Analyst,ClearPeaks,26.997 €/año,Barcelona,27,Yearly,27000,Not determined
+350,Data Analyst,Kantar Worldpanel,23.550 €/año,Barcelona,24,Yearly,24000,Not determined
+351,Data Analyst,Primagas,46.000 €/año,Barcelona,46,Yearly,46000,Not determined
+352,Data Analyst,La Redoute,48.396 €/año,Barcelona,48,Yearly,48000,Not determined
+353,Data Analyst - Becario por hora,Tekman Books,6 €/h,Barcelona,6,Hourly,10800,Internship
+354,Data Analyst,CYBERCLICK MARKETING,29.886 €/año,Barcelona,30,Yearly,30000,Not determined
+355,Data Analyst,Zeptolab,35.738 €/año,Barcelona,36,Yearly,36000,Not determined
+356,Data Analyst - Por mes,500 Markets,1.019 €/mes,Barcelona,1,Monthly,12000,Not determined
+357,Data Analyst - Por mes,Light Stone,897 €/mes,Barcelona,897,Monthly,10764,Not determined
+358,Data Analyst,Higuests,47.320 €/año,Barcelona,47,Yearly,47000,Not determined
+359,Data Analyst,En GantaBI,47.118 €/año,Barcelona,47,Yearly,47000,Not determined
+360,Senior Data Analyst,Criteo,36.860 €/año,Barcelona,37,Yearly,37000,Senior Position
+361,Senior Data Analyst,Vistaprint,51.424 €/año,Barcelona,51,Yearly,51000,Senior Position
+362,Senior Data Analyst,Bayer,27.053 €/año,Barcelona,27,Yearly,27000,Senior Position
+363,Senior Data Analyst,Norwegian Air Shuttle,32.000 €/año,Barcelona,32,Yearly,32000,Senior Position
+364,Business Data Analyst,SDG Group,24.574 €/año,Barcelona,25,Yearly,25000,Not determined
+365,Business Data Analyst,Autodesk,33.937 €/año,Barcelona,34,Yearly,34000,Not determined
+366,Junior Data Analyst,Glovo,25.976 €/año,Barcelona,26,Yearly,26000,Junior Position
+367,Junior Data Analyst,FocusEconomics,11.884 €/año,Barcelona,12,Yearly,12000,Junior Position
+368,Marketing Data Analyst,Adevinta,45.499 €/año,Barcelona,45,Yearly,45000,Not determined
+369,Big Data Analyst,Minsait,24.070 €/año,Barcelona,24,Yearly,24000,Not determined
+370,Big Data Analyst,Nest,49.371 €/año,Barcelona,49,Yearly,49000,Not determined
+371,Data Analyst,Zalando,50.301 €,Berlin,50,Yearly,50000,Not determined
+372,Data Analyst,Rocket Internet,36 k € - 43 k €,Berlin,40,Yearly,40000,Not determined
+373,Data Analyst,N26,31 k € - 40 k €,Berlin,36,Yearly,36000,Not determined
+374,Data Analyst - Becario por mes,N26,1 k € - 2 k €,Berlin,2,Monthly,24000,Internship
+375,Data Analyst,HelloFresh,41 k € - 45 k €,Berlin,43,Yearly,43000,Not determined
+376,Data Analyst,MyToys,43 k € - 51 k €,Berlin,47,Yearly,47000,Not determined
+377,Data Analyst,BMW,39 k € - 43 k €,Berlin,41,Yearly,41000,Not determined
+378,Data Analyst,Accenture,38 k € - 42 k €,Berlin,40,Yearly,40000,Not determined
+379,Data Analyst - Por mes,Deutsche Bank,2 k € - 2 k €,Berlin,2,Monthly,24000,Not determined
+380,Data Analyst,Deutsche Bank,57 k € - 60 k €,Berlin,58,Yearly,58000,Not determined
+381,Data Analyst - Por hora,Deloitte,13 € - 15 €,Berlin,14,Hourly,25200,Not determined
+382,Data Analyst - Por mes,Amazon,2 k € - 2 k €,Berlin,2,Monthly,24000,Not determined
+383,Data Analyst,Amazon,39 k € - 42 k €,Berlin,40,Yearly,40000,Not determined
+384,Data Analyst,ImmoScout24,50 k € - 54 k €,Berlin,52,Yearly,52000,Not determined
+385,Data Analyst - Por mes,HelloFresh,886 € - 957 €,Berlin,922,Monthly,11064,Not determined
+386,Data Analyst,Babbel,37 k € - 40 k €,Berlin,38,Yearly,38000,Not determined
+387,Data Analyst,AOK,55 k € - 61 k €,Berlin,58,Yearly,58000,Not determined
+388,Data Analyst,Blacklane,43 k € - 47 k €,Berlin,45,Yearly,45000,Not determined
+389,Data Analyst,Deutsche Kreditbank,62 k € - 68 k €,Berlin,65,Yearly,65000,Not determined
+390,Data Analyst,Springer Nature,41 k € - 45 k €,Berlin,43,Yearly,43000,Not determined
+391,Data Analyst,Contentful,41 k € - 44 k €,Berlin,42,Yearly,42000,Not determined
+392,Data Analyst - Becario por mes,gamigo,2 k € - 2 k €,Berlin,2,Monthly,24000,Internship
+393,Data Analyst - Por mes,Honeypot,3 k € - 4 k €,Berlin,4,Monthly,48000,Not determined
+394,Data Analyst - Por mes,Facebook,10 k € - 11 k €,Berlin,10,Monthly,120000,Not determined
+395,Data Analyst - Por mes,Viafon GmbH,3 k € - 3 k €,Berlin,3,Monthly,36000,Not determined
+396,Data Analyst,Metrinomics,58 k € - 63 k €,Berlin,60,Yearly,60000,Not determined
+397,Data Analyst,Datapine,26 k € - 28 k €,Berlin,27,Yearly,27000,Not determined
+398,Data Analyst - Becario por hora,Datapine,14 € - 15 €,Berlin,14,Hourly,25200,Internship
+399,Data Analyst - Proveedor de servicios por mes,Kitchen Stories,3 k € - 3 k €,Berlin,3,Monthly,36000,Not determined
+400,Data Analyst,Gerandu,53 k € - 57 k €,Berlin,55,Yearly,55000,Not determined
+401,Data Analyst - Por mes,PVB Presse Vertrieb Berlin,2 k € - 2 k €,Berlin,2,Monthly,24000,Not determined
+402,Data Analyst,Zeppelin Lab,52 k € - 56 k €,Berlin,54,Yearly,54000,Not determined
+403,Data Analyst - Becario por mes,FOURSOURCE,2 k € - 2 k €,Berlin,2,Monthly,24000,Internship
+404,Data Analyst - Por hora,Blasty,15 € - 16 €,Berlin,16,Hourly,28800,Not determined
+405,Data Analyst - Por mes,Universidad de Chile,2 k € - 2 k €,Berlin,2,Monthly,24000,Not determined
+406,Senior Data Analyst,Accenture,39 k € - 41 k €,Berlin,40,Yearly,40000,Senior Position
+407,Senior Data Analyst,L'Oréal,84 k R$ - 91 k R$,Berlin,88,Yearly,88000,Senior Position
+408,Senior Data Analyst,Aroundhome,55 k € - 60 k €,Berlin,58,Yearly,58000,Senior Position
+409,Senior Data Analyst,Capital Bay,77 k € - 84 k €,Berlin,80,Yearly,80000,Senior Position
+410,Junior Data Analyst,Deutsche Bank,31 k € - 34 k €,Berlin,32,Yearly,32000,Junior Position
+411,Junior Data Analyst - Por mes,E.ON,3 k € - 4 k €,Berlin,4,Monthly,48000,Junior Position
+412,Junior Data Analyst,ImmoScout24,45 k € - 48 k €,Berlin,46,Yearly,46000,Junior Position
+413,Financial Data Analyst - Por hora,Wayfair,12 € - 14 €,Berlin,13,Hourly,23400,Not determined
+414,Financial Data Analyst - Becario por mes,Cubits,810 € - 870 €,Berlin,840,Monthly,10080,Internship
+415,Clinical Data Analyst,Parexel,56 k € - 61 k €,Berlin,58,Yearly,58000,Not determined
+416,Data Analyst Intern - Por mes,Medigo,1 k € - 1 k €,Berlin,1,Monthly,12000,Internship
+417,Master Data Analyst,Weber-Stephen Products,48 k € - 52 k €,Berlin,50,Yearly,50000,Not determined
+418,Big Data Analyst - Por mes,Universität Siegen,3 k € - 3 k €,Berlin,3,Monthly,36000,Not determined
+419,Product Data Analyst,Zalando,45 k € - 49 k €,Berlin,47,Yearly,47000,Not determined
+420,Datenanalyst - Becario por mes,Zalando,687 € - 739 €,Berlin,713,Monthly,8556,Internship
+421,Datenanalyst,Zalando,52 k € - 56 k €,Berlin,54,Yearly,54000,Not determined
+422,Datenanalyst - Por mes,Groupon,5 k € - 5 k €,Berlin,5,Monthly,60000,Not determined
+423,Datenanalyst - Becario por hora,Move24,15 € - 16 €,Berlin,16,Hourly,28800,Internship
+424,Datenanalyst - Becario por mes,Flaconi,407 € - 439 €,Berlin,423,Monthly,5076,Internship
+425,Senior Financial Data Analyst,Ratepay,67 k € - 73 k €,Berlin,70,Yearly,70000,Senior Position
+426,Data Analyst Trainee,Ubiqum Code Academy,52 k € - 57 k €,Berlin,54,Yearly,54000,Not determined
+427,Data Analyst,Deloitte,24.799 €,Madrid,25,Yearly,25000,Not determined
+428,Data Analyst,JLL,27 k € - 30 k €,Madrid,28500,Yearly,28500,Not determined
+429,Data Analyst,ALD Automotive,34 k € - 37 k €,Madrid,35500,Yearly,35500,Not determined
+430,Data Analyst,Morningstar,27 k € - 29 k €,Madrid,28000,Yearly,28000,Not determined
+431,Data Analyst,Accenture,28 k € - 31 k €,Madrid,29500,Yearly,29500,Not determined
+432,Data Analyst,Telefónica,20 k € - 21 k €,Madrid,20500,Yearly,20500,Not determined
+433,Data Analyst,Telefónica,25 k € - 27 k €,Madrid,26000,Yearly,26000,Not determined
+434,Data Analyst,Santander,35 k € - 38 k €,Madrid,36500,Yearly,36500,Not determined
+435,Data Analyst - Becario por mes,BBVA,963 € - 1 k €,Madrid,982,Monthly,11784,Internship
+436,Data Analyst,BBVA,28 k € - 30 k €,Madrid,29000,Yearly,29000,Not determined
+437,Data Analyst,KPMG,26 k € - 28 k €,Madrid,27000,Yearly,27000,Not determined
+438,Data Analyst - Becario por mes,Airbus,992 € - 1 k €,Madrid,996,Monthly,11952,Internship
+439,Data Analyst,Amadeus,36 k € - 39 k €,Madrid,37500,Yearly,37500,Not determined
+440,Data Analyst,Minsait,34 k € - 37 k €,Madrid,35500,Yearly,35500,Not determined
+441,Data Analyst,Electronic Arts,29 k € - 31 k €,Madrid,30000,Yearly,30000,Not determined
+442,Data Analyst,IQVIA,24 k € - 26 k €,Madrid,25000,Yearly,25000,Not determined
+443,Data Analyst,L'Oréal,46 k € - 50 k €,Madrid,48000,Yearly,48000,Not determined
+444,Data Analyst,Boston Consulting Group,67 k € - 72 k €,Madrid,69500,Yearly,69500,Not determined
+445,Data Analyst,The Cocktail,17 k € - 18 k €,Madrid,17500,Yearly,17500,Not determined
+446,Data Analyst,Nielsen,30 k € - 32 k €,Madrid,31000,Yearly,31000,Not determined
+447,Data Analyst - Becario por mes,Geoblink,674 € - 726 €,Madrid,700,Monthly,8400,Internship
+448,Data Analyst,Solera,22 k € - 24 k €,Madrid,23000,Yearly,23000,Not determined
+449,Data Analyst,Indizen Consulting,21 k € - 23 k €,Madrid,22000,Yearly,22000,Not determined
+450,Data Analyst,MRM,29 k € - 31 k €,Madrid,30000,Yearly,30000,Not determined
+451,Data Analyst,Teva Pharmaceuticals,24 k € - 26 k €,Madrid,25000,Yearly,25000,Not determined
+452,Data Analyst,Sanitas,28 k € - 30 k €,Madrid,29000,Yearly,29000,Not determined
+453,Data Analyst - Becario por mes,Morningstar,1 k € - 1 k €,Madrid,1000,Monthly,12000,Internship
+454,Data Analyst,Ontwice,24 k € - 26 k €,Madrid,25000,Yearly,25000,Not determined
+455,Data Analyst,Returnly,47 k € - 52 k €,Madrid,49500,Yearly,49500,Not determined
+456,Data Analyst,Cheil Worldwide,37 k € - 40 k €,Madrid,38500,Yearly,38500,Not determined
+457,Data Analyst,Experian,19 k € - 21 k €,Madrid,20000,Yearly,20000,Not determined
+458,Data Analyst,El Español,24 k € - 26 k €,Madrid,25000,Yearly,25000,Not determined
+459,Data Analyst,Seedtag,20 k € - 22 k €,Madrid,21000,Yearly,21000,Not determined
+460,Data Analyst,Renault-Nissan Consulting,27 k € - 29 k €,Madrid,28000,Yearly,28000,Not determined
+461,Data Analyst,Assystem,49 k € - 53 k €,Madrid,51000,Yearly,51000,Not determined
+462,Data Analyst - Por mes,Prysma,955 € - 1 k €,Madrid,978,Monthly,11736,Not determined
+463,Data Analyst,UNICEF,32 k € - 35 k €,Madrid,33500,Yearly,33500,Not determined
+464,Data Analyst - Proveedor de servicios,Berge,24 k € - 26 k €,Madrid,25000,Yearly,25000,Not determined
+465,Data Analyst,YMedia,27 k € - 29 k €,Madrid,28000,Yearly,28000,Not determined
+466,Data Analyst,PA Digital,33 k € - 36 k €,Madrid,34500,Yearly,34500,Not determined
+467,Data Analyst,BiP Solutions,26 k € - 28 k €,Madrid,27000,Yearly,27000,Not determined
+468,Data Analyst,Statistics & Data Corporation (SDC),31 k € - 34 k €,Madrid,32500,Yearly,32500,Not determined
+469,Senior Data Analyst,Santander,37 k € - 40 k €,Madrid,38500,Yearly,38500,Senior Position
+470,Senior Data Analyst,Urban Science,30 k € - 33 k €,Madrid,31500,Yearly,31500,Senior Position
+471,Senior Data Analyst,Altamira Asset,46 k € - 49 k €,Madrid,47500,Yearly,47500,Senior Position
+472,Senior Data Analyst,Bayes Forecast,26 k € - 28 k €,Madrid,27000,Yearly,27000,Senior Position
+473,Business Data Analyst,Vodafone,43 k € - 47 k €,Madrid,45000,Yearly,45000,Not determined
+474,Business Data Analyst - Becario por mes,ALTEN,672 € - 739 €,Madrid,706,Monthly,8472,Internship
+475,Business Data Analyst,Galp,45 k € - 49 k €,Madrid,47000,Yearly,47000,Not determined
+476,Junior Data Analyst,Santander,30 k € - 32 k €,Madrid,31000,Yearly,31000,Junior Position
+477,Junior Data Analyst,Minsait,25 k € - 27 k €,Madrid,26000,Yearly,26000,Junior Position
+478,Associate Data Analyst,Morningstar,27 k € - 29 k €,Madrid,28000,Yearly,28000,Not determined
+479,Big Data Analyst,Pragsis Technologies,47 k € - 51 k €,Madrid,49000,Yearly,49000,Not determined
+480,Data Analyst Manager,EY,50 k € - 53 k €,Madrid,51500,Yearly,51500,Not determined
+481,analista de datos - Becario por mes,Accenture,760 € - 833 €,Madrid,796,Monthly,9552,Internship
+482,analista de datos - Proveedor de servicios,IQVIA,18 k € - 19 k €,Madrid,18500,Yearly,18500,Not determined
+483,analista de datos,CLEDIGOLU,52 k € - 57 k €,Madrid,54500,Yearly,54500,Not determined
+484,analista de datos,Accepta Servicios Integrales,46 k € - 49 k €,Madrid,47500,Yearly,47500,Not determined
+485,Data Analyst/Developer,Spark44,29 k € - 32 k €,Madrid,30500,Yearly,30500,Not determined
+486,CRM Data Analyst,ALD Automotive,45 k € - 50 k €,Madrid,47500,Yearly,47500,Not determined
+487,Data Analyst,Bloomberg L.P.,44.221 £/año,London,44,Yearly,48400,Not determined
+488,Data Analyst,Her Majesty's Revenue & Customs,33.879 £/año,London,34,Yearly,37400,Not determined
+489,Data Analyst,Experian,31.671 £/año,London,32,Yearly,35200,Not determined
+490,Data Analyst,Sport England,46.467 £/año,London,46,Yearly,50600,Not determined
+491,Data Analyst,Kubrick Group,26.106 £/año,London,26,Yearly,28600,Not determined
+492,Data Analyst,PwC,33.096 £/año,London,33,Yearly,36300,Not determined
+493,Data Analyst,KPMG,38.444 £/año,London,38,Yearly,41800,Not determined
+494,Data Analyst,Sky,40.955 £/año,London,41,Yearly,45100,Not determined
+495,Data Analyst,Cision,23.689 £/año,London,24,Yearly,26400,Not determined
+496,Data Analyst,EY,41.838 £/año,London,42,Yearly,46200,Not determined
+497,Data Analyst,BAE Systems Applied Intelligence,39.576 £/año,London,40,Yearly,44000,Not determined
+498,Data Analyst,CACI (UK),27.392 £/año,London,27,Yearly,29700,Not determined
+499,Data Analyst,Deloitte,34.048 £/año,London,34,Yearly,37400,Not determined
+500,Data Analyst,Ministry of Justice UK,35.550 £/año,London,36,Yearly,39600,Not determined
+501,Data Analyst - Proveedor de servicios por hora,Kantar Media,29.569 £/año,London,30,Yearly,59400,Not determined
+502,Data Analyst - Proveedor de servicios,Legal and General Investment Management,57.384 £/año,London,57,Yearly,62700,Not determined
+503,Data Analyst,BCD Travel,26.036 £/año,London,26,Yearly,28600,Not determined
+504,Data Analyst,Infectious Media,24.445 £/año,London,24,Yearly,26400,Not determined
+505,Data Analyst,Tesco,55.000 £/año,London,55,Yearly,60500,Not determined
+506,Data Analyst,Barclays,47.031 £/año,London,47,Yearly,51700,Not determined
+507,Data Analyst,Accenture,34.876 £/año,London,35,Yearly,38500,Not determined
+508,Data Analyst,Marks & Spencer,36.831 £/año,London,37,Yearly,40700,Not determined
+509,Data Analyst,HSBC Holdings,17 £/h,London,17,Hourly,18700,Not determined
+510,Data Analyst,HSBC Holdings,45.844 £/año,London,46,Yearly,50600,Not determined
+511,Data Analyst,Capita,28.392 £/año,London,28,Yearly,30800,Not determined
+512,Data Analyst,Vodafone,25.070 £/año,London,25,Yearly,27500,Not determined
+513,Data Analyst,Imperial College London,38.000 £/año,London,38,Yearly,41800,Not determined
+514,Data Analyst,UBS,60.558 £/año,London,61,Yearly,67100,Not determined
+515,Data Analyst,Royal Mail,49.788 £/año,London,50,Yearly,55000,Not determined
+516,Data Analyst,Cognizant Technology Solutions,32.067 £/año,London,32,Yearly,35200,Not determined
+517,Data Analyst,FDM Group,20.071 £/año,London,20,Yearly,22000,Not determined
+518,Data Analyst,BDO,28.637 £/año,London,29,Yearly,31900,Not determined
+519,Data Analyst,CBRE,30.765 £/año,London,31,Yearly,34100,Not determined
+520,Data Analyst,TalkTalk Group,36.558 £/año,London,37,Yearly,40700,Not determined
+521,Data Analyst,Bank of England,32.089 £/año,London,32,Yearly,35200,Not determined
+522,Data Analyst,OMD,28.400 £/año,London,28,Yearly,30800,Not determined
+523,Data Analyst,Gamesys,32.483 £/año,London,32,Yearly,35200,Not determined
+524,Data Analyst,The Telegraph,28.026 £/año,London,28,Yearly,30800,Not determined
+525,Data Analyst,Radisson Hotel Group,39.472 £/año,London,39,Yearly,42900,Not determined
+526,Data Analyst,Revolut,50.000 £/año,London,50,Yearly,55000,Not determined
+527,Data Analyst,uSwitch,42.496 £/año,London,42,Yearly,46200,Not determined
+528,Data Analyst,NHS Improvement,40.576 £/año,London,41,Yearly,45100,Not determined
+529,Data Analyst,Financial Services Compensation Scheme,34.175 £/año,London,34,Yearly,37400,Not determined
+530,Data Analyst,Rocket Fuel,36.725 £/año,London,37,Yearly,40700,Not determined
+531,Data Analyst,The Plum Guide,35.097 £/año,London,35,Yearly,38500,Not determined
+532,Data Analyst,ICX4,52.464 £/año,London,52,Yearly,57200,Not determined
+533,Data Analyst - Proveedor de servicios por hora,QuantSpark,35.623 £/año,London,36,Yearly,71280,Not determined
+534,Data Analyst - Proveedor de servicios por mes,ETFGI.com,24.044 £/año,London,24,Yearly,316800,Not determined
+535,Data Analyst,NHS,32.651 £/año,London,33,Yearly,36300,Not determined
+536,Data Analyst - Proveedor de servicios por hora,Lloyds Banking Group,41.408 £/año,London,41,Yearly,81180,Not determined
+537,Data Analyst,HSBC Holdings,34.728 £/año,London,35,Yearly,38500,Not determined
+538,Data Analyst,J.P. Morgan,47.694 £/año,London,48,Yearly,52800,Not determined
+539,Data Analyst,Royal Bank of Scotland,52.118 £/año,London,52,Yearly,57200,Not determined
+540,Data Analyst,BBC,40.274 £/año,London,40,Yearly,44000,Not determined
+541,Data Analyst,GlaxoSmithKline,39 £/h,London,39,Hourly,42900,Not determined
+542,Data Analyst,GlaxoSmithKline,2.378 £/mes,London,2,Monthly,26400,Not determined
+543,Data Analyst - Proveedor de servicios,GlaxoSmithKline,43.166 £/año,London,43,Yearly,47300,Not determined
+544,Data Analyst,Bloomberg L.P.,10 £/h,London,10,Hourly,11000,Not determined
+545,Data Analyst,British Airways,40.000 £/año,London,40,Yearly,44000,Not determined
+546,Data Analyst,Apple,51.272 £/año,London,51,Yearly,56100,Not determined
+547,Data Analyst,Microsoft,45.061 £/año,London,45,Yearly,49500,Not determined
+548,Data Analyst,Thomson Reuters,33.806 £/año,London,34,Yearly,37400,Not determined
+549,Data Analyst,Google,44.054 £/año,London,44,Yearly,48400,Not determined
+550,Data Analyst,British Gas,33.917 £/año,London,34,Yearly,37400,Not determined
+551,Data Analyst,Transport for London,31.583 £/año,London,32,Yearly,35200,Not determined
+552,Data Analyst,Shell,39.793 £/año,London,40,Yearly,44000,Not determined
+553,Data Analyst,IHS Markit,31.240 £/año,London,31,Yearly,34100,Not determined
+554,Data Analyst,Metro Bank,42.518 £/año,London,43,Yearly,47300,Not determined
+555,Data Analyst,Pearson,30.083 £/año,London,30,Yearly,33000,Not determined
+556,Data Analyst,Aon,33.683 £/año,London,34,Yearly,37400,Not determined
+557,Data Analyst,Worldpay,35.687 £/año,London,36,Yearly,39600,Not determined
+558,Data Analyst,dunnhumby,44.096 £/año,London,44,Yearly,48400,Not determined
+559,Data Analyst,Diageo,31.521 £/año,London,32,Yearly,35200,Not determined
+560,Data Analyst,Capital One,35.774 £/año,London,36,Yearly,39600,Not determined
+561,Data Analyst,JLL,32.257 £/año,London,32,Yearly,35200,Not determined
+562,Data Analyst,Legal & General,42.751 £/año,London,43,Yearly,47300,Not determined
+563,Data Analyst,Kantar Worldpanel,26.602 £/año,London,27,Yearly,29700,Not determined
+564,Data Analyst,Mindshare,27.414 £/año,London,27,Yearly,29700,Not determined
+565,Data Analyst,AIG,48.604 £/año,London,49,Yearly,53900,Not determined
+566,Data Analyst,Elsevier,52.386 £/año,London,52,Yearly,57200,Not determined
+567,Data Analyst,Guardian News & Media,41.914 £/año,London,42,Yearly,46200,Not determined
+568,Data Analyst,RM,30.703 £/año,London,31,Yearly,34100,Not determined
+569,Data Analyst,Office for National Statistics,23.014 £/año,London,23,Yearly,25300,Not determined
+570,Data Analyst,University of London,29.668 £/año,London,30,Yearly,33000,Not determined
+571,Data Analyst,TP ICAP,26.342 £/año,London,26,Yearly,28600,Not determined
+572,Data Analyst,PHD Worldwide,24.365 £/año,London,24,Yearly,26400,Not determined
+573,Data Analyst,Sparta Global,25.035 £/año,London,25,Yearly,27500,Not determined
+574,Data Analyst,Aimia,38.645 £/año,London,39,Yearly,42900,Not determined
+575,Data Analyst,Argus Media,47.458 £/año,London,47,Yearly,51700,Not determined
+576,Data Analyst,Notting Hill Genesis,31.048 £/año,London,31,Yearly,34100,Not determined
+577,Data Analyst,NaturalMotion,36.488 £/año,London,36,Yearly,39600,Not determined
+578,Data Analyst,Lloyd's,54.650 £/año,London,55,Yearly,60500,Not determined
+579,Data Analyst,Morningstar,15.707 £/año,London,16,Yearly,17600,Not determined
+580,Data Analyst,Morningstar,30.078 £/año,London,30,Yearly,33000,Not determined
+581,Data Analyst,Wilmington plc,23.306 £/año,London,23,Yearly,25300,Not determined
+582,Data Analyst,Vrbo,47.437 £/año,London,47,Yearly,51700,Not determined
+583,Data Analyst,London Metropolitan University,28.727 £/año,London,29,Yearly,31900,Not determined
+584,Data Analyst,Brave Bison,47.281 £/año,London,47,Yearly,51700,Not determined
+585,Data Analyst,Racing Post,30.616 £/año,London,31,Yearly,34100,Not determined
+586,Data Analyst,JATO Dynamics,32.620 £/año,London,33,Yearly,36300,Not determined
+587,Data Analyst,KPMG,26.026 €/año,Dublin,26,Yearly,26000,Not determined
+588,Data Analyst,Accenture,28.414 €/año,Dublin,28,Yearly,28000,Not determined
+589,Data Analyst,Aon,41.473 €/año,Dublin,41,Yearly,41000,Not determined
+590,Data Analyst,Google,35.270 €/año,Dublin,35,Yearly,35000,Not determined
+591,Data Analyst,Allied Irish Banks,45.723 €/año,Dublin,46,Yearly,46000,Not determined
+592,Data Analyst,EY,34.384 €/año,Dublin,34,Yearly,34000,Not determined
+593,Data Analyst,Bank of Ireland,32.655 €/año,Dublin,33,Yearly,33000,Not determined
+594,Data Analyst,Paddy Power Betfair,34.659 €/año,Dublin,35,Yearly,35000,Not determined
+595,Data Analyst,Groupon,61.697 €/año,Dublin,62,Yearly,62000,Not determined
+596,Data Analyst,Intercontinental Exchange,26.156 €/año,Dublin,26,Yearly,26000,Not determined
+597,Data Analyst,Fidelity Investments,37.792 €/año,Dublin,38,Yearly,38000,Not determined
+598,Data Analyst,Infosys BPM,24.404 €/año,Dublin,24,Yearly,24000,Not determined
+599,Data Analyst,ACIA,35.965 €/año,Dublin,36,Yearly,36000,Not determined
+600,Data Analyst,Clavis Insight,31.969 €/año,Dublin,32,Yearly,32000,Not determined
+601,Data Analyst,Interactive Data,24.410 €/año,Dublin,24,Yearly,24000,Not determined
+602,Data Analyst - Proveedor de servicios,Google,23.693 €/año,Dublin,24,Yearly,24000,Not determined
+603,Data Analyst - Proveedor de servicios por mes,Allied Irish Banks,8.022 €/mes,Dublin,8,Monthly,96000,Not determined
+604,Data Analyst - Becario,EY,18.982 £/año,Dublin,19,Yearly,19000,Internship
+605,Data Analyst - Proveedor de servicios,KPMG,26.026 €/año,Dublin,26,Yearly,26000,Not determined
+606,Data Analyst,Facebook,63.188 €/año,Dublin,63,Yearly,63000,Not determined
+607,Data Analyst,permanent tsb,41.302 €/año,Dublin,41,Yearly,41000,Not determined
+608,Data Analyst,Deutsche Bank,60.568 €/año,Dublin,61,Yearly,61000,Not determined
+609,Data Analyst,Bank of America,42.365 €/año,Dublin,42,Yearly,42000,Not determined
+610,Data Analyst,Three Ireland,59.082 €/año,Dublin,59,Yearly,59000,Not determined
+611,Data Analyst,ESBI,44.078 €/año,Dublin,44,Yearly,44000,Not determined
+612,Data Analyst - Proveedor de servicios,Mylan Inc,40.155 €/año,Dublin,40,Yearly,40000,Not determined
+613,Data Analyst,Central Bank of Ireland,47.622 €/año,Dublin,48,Yearly,48000,Not determined
+614,Data Analyst,Allied Irish Bank (GB),28.720 €/año,Dublin,29,Yearly,29000,Not determined
+615,Data Analyst,SSE,49.636 €/año,Dublin,50,Yearly,50000,Not determined
+616,Data Analyst,Pocket Kings,33.842 €/año,Dublin,34,Yearly,34000,Not determined
+617,Data Analyst,RSA Group,47.689 €/año,Dublin,48,Yearly,48000,Not determined
+618,Data Analyst - Proveedor de servicios,Clavis Insight,37.536 €/año,Dublin,38,Yearly,38000,Not determined
+619,Data Analyst - Por mes,Accenture,2.002 €/mes,Dublin,2,Monthly,24000,Not determined
+620,Data Analyst,IBM,30.300 €/año,Dublin,30,Yearly,30000,Not determined
+621,Data Analyst - Por mes,Allied Irish Banks,5.994 €/mes,Dublin,6,Monthly,72000,Not determined
+622,Data Analyst,Microsoft,45.000 €/año,Dublin,45,Yearly,45000,Not determined
+623,Data Analyst - Becario,EY,16.934 €/año,Dublin,17,Yearly,17000,Internship
+624,Data Analyst - Becario,Deloitte,19.709 €/año,Dublin,20,Yearly,20000,Internship
+625,Data Analyst - Proveedor de servicios,Deloitte,46.074 €/año,Dublin,46,Yearly,46000,Not determined
+626,Data Analyst - Becario por mes,Bank of Ireland,1.822 €/mes,Dublin,2,Monthly,24000,Internship
+627,Data Analyst,Salesforce,39.631 €/año,Dublin,40,Yearly,40000,Not determined
+628,Data Analyst - Proveedor de servicios,PwC,23.906 €/año,Dublin,24,Yearly,24000,Not determined
+629,Data Analyst - Becario,PwC,18.982 €/año,Dublin,19,Yearly,19000,Internship
+630,Data Analyst - Proveedor de servicios por hora,CPL Resources,11 €/h,Dublin,11,Hourly,19800,Not determined
+631,Data Analyst,Arvato,42.335 €/año,Dublin,42,Yearly,42000,Not determined
+632,Data Analyst - Becario por mes,University College Dublin,1.401 €/mes,Dublin,1,Monthly,12000,Internship
+633,Data Analyst - Proveedor de servicios,eircom,37.482 €/año,Dublin,37,Yearly,37000,Not determined
+634,Data Analyst,eircom,43.828 €/año,Dublin,44,Yearly,44000,Not determined
+635,Data Analyst,eircom,30.179 €/año,Dublin,30,Yearly,30000,Not determined
+636,Data Analyst - Proveedor de servicios,Health Service Executive,41.960 €/año,Dublin,42,Yearly,42000,Not determined
+637,Data Analyst,Health Service Executive,35.140 €/año,Dublin,35,Yearly,35000,Not determined
+638,Data Analyst,Version 1,30.698 €/año,Dublin,31,Yearly,31000,Not determined
+639,Data Analyst,Pfizer,38.125 €/año,Dublin,38,Yearly,38000,Not determined
+640,Data Analyst - Por mes,Airbnb,2.278 €/mes,Dublin,2,Monthly,24000,Not determined
+641,Data Analyst,Smartbox Worldwide,30.000 €/año,Dublin,30,Yearly,30000,Not determined
+642,Data Analyst - Por mes,Kerry,2.463 €/mes,Dublin,2,Monthly,24000,Not determined
+643,Data Analyst,CarTrawler,40.115 €/año,Dublin,40,Yearly,40000,Not determined
+644,Data Analyst,Ryanair,28.084 €/año,Dublin,28,Yearly,28000,Not determined
+645,Data Analyst - Becario,Deutsche Bank,22.066 €/año,Dublin,22,Yearly,22000,Internship
+646,Data Analyst - Por hora,HCL Technologies,11 €/h,Dublin,11,Hourly,19800,Not determined
+647,Data Analyst,Salesforce,39.631 €/año,Dublin,40,Yearly,40000,Not determined
+648,Data Analyst - Proveedor de servicios,PwC,23.906 €/año,Dublin,24,Yearly,24000,Not determined
+649,Data Analyst - Becario,PwC,18.982 €/año,Dublin,19,Yearly,19000,Internship
+650,Data Analyst - Proveedor de servicios por hora,CPL Resources,11 €/h,Dublin,11,Hourly,19800,Not determined
+651,Data Analyst,Arvato,42.335 €/año,Dublin,42,Yearly,42000,Not determined
+652,Data Analyst - Becario por mes,University College Dublin,1.401 €/mes,Dublin,1,Monthly,12000,Internship
+653,Data Analyst - Proveedor de servicios,eircom,37.482 €/año,Dublin,37,Yearly,37000,Not determined
+654,Data Analyst,eircom,43.828 €/año,Dublin,44,Yearly,44000,Not determined
+655,Data Analyst,eircom,30.179 €/año,Dublin,30,Yearly,30000,Not determined
+656,Data Analyst - Proveedor de servicios,Health Service Executive,41.960 €/año,Dublin,42,Yearly,42000,Not determined
+657,Data Analyst,Health Service Executive,35.140 €/año,Dublin,35,Yearly,35000,Not determined
+658,Data Analyst,Version 1,30.698 €/año,Dublin,31,Yearly,31000,Not determined
+659,Data Analyst,Pfizer,38.125 €/año,Dublin,38,Yearly,38000,Not determined
+660,Data Analyst - Por mes,Airbnb,2.278 €/mes,Dublin,2,Monthly,24000,Not determined
+661,Data Analyst,Smartbox Worldwide,30.000 €/año,Dublin,30,Yearly,30000,Not determined
+662,Data Analyst - Por mes,Kerry,2.463 €/mes,Dublin,2,Monthly,24000,Not determined
+663,Data Analyst,CarTrawler,40.115 €/año,Dublin,40,Yearly,40000,Not determined
+664,Data Analyst,Ryanair,28.084 €/año,Dublin,28,Yearly,28000,Not determined
+665,Data Analyst - Becario,Deutsche Bank,22.066 €/año,Dublin,22,Yearly,22000,Internship
+666,Data Analyst - Por hora,HCL Technologies,11 €/h,Dublin,11,Hourly,19800,Not determined
+667,Data Analyst,HCL Technologies,27.434 €/año,Dublin,27,Yearly,27000,Not determined
+668,Data Analyst - Proveedor de servicios,Bank of America,30.090 €/año,Dublin,30,Yearly,30000,Not determined
+669,Data Analyst,Susquehanna International Group (SIG),51.493 €/año,Dublin,51,Yearly,51000,Not determined
+670,Data Analyst,Mylan Inc,53.102 €/año,Dublin,53,Yearly,53000,Not determined
+671,Data Analyst,Aviva,24.476 €/año,Dublin,24,Yearly,24000,Not determined
+672,Data Analyst - Proveedor de servicios por hora,Central Bank of Ireland,55 €/h,Dublin,55,Hourly,99000,Not determined
+673,Data Analyst - Proveedor de servicios,Yahoo,56.622 €/año,Dublin,57,Yearly,57000,Not determined
+674,Data Analyst - Proveedor de servicios,Allergan,31.643 €/año,Dublin,32,Yearly,32000,Not determined
+675,Data Analyst - Proveedor de servicios,Davy,36.639 €/año,Dublin,37,Yearly,37000,Not determined
+676,Data Analyst - Becario,Grant Thornton,17.552 €/año,Dublin,18,Yearly,18000,Internship
+677,Data Analyst - Proveedor de servicios por hora,Davy,29 €/h,Dublin,29,Hourly,52200,Not determined
+678,Data Analyst - Becario por mes,Royal College of Surgeons in Ireland,975 €/mes,Dublin,975,Monthly,11700,Internship
+679,Data Analyst,GameStop,30.120 €/año,Dublin,30,Yearly,30000,Not determined
+680,Data Analyst - Proveedor de servicios,Aon,32.191 €/año,Dublin,32,Yearly,32000,Not determined
+681,Data Analyst,Sogeti,25.000 €/año,Dublin,25,Yearly,25000,Not determined
+682,Data Analyst,Telefónica,45.269 €/año,Dublin,45,Yearly,45000,Not determined
+683,Data Analyst,J.P. Morgan,34.591 €/año,Dublin,35,Yearly,35000,Not determined
+684,Data Analyst,The AA,31.595 €/año,Dublin,32,Yearly,32000,Not determined
+685,Data Analyst - Por hora,CBRE,15 £/h,Dublin,15,Hourly,27000,Not determined
+686,Data Analyst - Proveedor de servicios,BNP Paribas,27.754 €/año,Dublin,28,Yearly,28000,Not determined

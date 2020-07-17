@@ -44,5 +44,5 @@ Code contains the cleanest Jupyter Notebooks we had in our personal folders.  Si
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/ramonnavarrob/Project-Week-3-Data-Thieves.git)  
-[Slides](https://drive.google.com/file/d/163dOmIQC8yrbEYAfs8iRljRgvrc3tZxh/view)  
+[Slides](https://drive.google.com/file/d/163dOmIQC8yrbEYAfs8iRljRgvrc3tZxh/view?usp=sharing)  
 [Trello](https://trello.com/b/SRAGf8yU/project-3)  
